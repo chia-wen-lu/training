@@ -1,5 +1,9 @@
 # Hello World!!
+<<<<<<< HEAD
 
+=======
+# Git learning!!
+>>>>>>> test
 # CodeIgniter 4 Application Starter
 
 ## What is CodeIgniter?
